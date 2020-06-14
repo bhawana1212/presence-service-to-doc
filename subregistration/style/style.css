@@ -1,0 +1,53 @@
+#content
+{
+	height:auto;
+
+}
+#logpage table
+{
+	
+	margin-top:70px;
+	margin-left:900px;
+	margin-bottom:70px;
+	border:3px #000000 solid;
+	border-radius:10px;
+    padding:30px;
+	line-height:30px;
+	background-color:		008080;
+    color:#FFF;
+	height:330px;
+}
+
+#registration h1
+{
+	text-align:center;
+	font-size:45px;
+}
+#registration td
+{
+	font-size:20px
+}
+.err
+{
+	color:#F00;
+	font-size:14px;
+}
+
+#logout
+{
+	position:absolute;
+	top:33%;
+	font-size:18px;
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#FFF;
+	margin-left:83%;
+	text-align:center;
+}
+#logout a
+{
+	color:#300;
+}
+#logout a:hover
+{
+	color:#FFF;
+}
